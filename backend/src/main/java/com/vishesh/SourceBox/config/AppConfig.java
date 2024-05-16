@@ -45,7 +45,8 @@ public class AppConfig {
                 CorsConfiguration cfg = new CorsConfiguration();
                 cfg.setAllowedOrigins(Arrays.asList(
                         "http://localhost:3000",
-                        "http://localhost:5173"));
+                        "http://localhost:5173",
+                        "https://source-box.vercel.app/"));
                 cfg.setAllowedMethods(Collections.singletonList("*"));
                 cfg.setAllowCredentials(true);
                 cfg.setAllowedHeaders(Collections.singletonList("*"));
