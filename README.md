@@ -47,7 +47,7 @@ SourceBox is a comprehensive project management system designed to help you mana
    - Each project includes a chat feature where team members can communicate in real time.
    - This feature helps in maintaining ongoing discussions, brainstorming ideas, and resolving issues quickly without needing to switch to another communication platform.
   
-     ![image](Images/image4.png)
+     ![image](Images/image12.png)
 
 7. **Issues Management**:
    - Users can report issues related to the project and assign them to other team members.
@@ -60,6 +60,8 @@ SourceBox is a comprehensive project management system designed to help you mana
    - Users can view a list of all issues they are involved in, along with their details and statuses.
    - Issues can be filtered and sorted based on various criteria, making it easy to find and manage them.
    - Users can add comments to issues, facilitating communication and collaboration on resolving the issues.
+  
+     ![image](Images/image10.png)
 
 9. **Upgrade Subscription**:
    - Users have the option to upgrade their subscription plans using Razorpay.
@@ -71,6 +73,8 @@ SourceBox is a comprehensive project management system designed to help you mana
     - Users can add comments to issues to provide updates, feedback, or additional information.
     - Comments can also be deleted by the user who posted them, ensuring that the discussion remains relevant and up-to-date.
     - This feature supports continuous communication and collaboration among team members.
+   
+     ![image](Images/image11.png)
 
 ## Technologies Used
 
