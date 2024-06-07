@@ -44,7 +44,8 @@ function App() {
             </Routes>
           </div>
         ): (<Auth/>
-      )}
+      )
+      }
     </>
   );
 }
