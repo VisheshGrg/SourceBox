@@ -6,6 +6,13 @@ SourceBox is a comprehensive project management system designed to help you mana
 
 "Streamline Your Projects, Boost Your Productivity."
 
+## Technologies Used
+
+- **Backend**: Spring Boot, Hibernate, Spring Security
+- **Frontend**: ReactJS, Tailwind CSS, ShadCN UI Library
+- **Payment Integration**: Razorpay
+- **Database**: MySQL
+
 ## Features
 
 1. **Login and Register**:
@@ -76,9 +83,4 @@ SourceBox is a comprehensive project management system designed to help you mana
    
      ![image](Images/image11.png)
 
-## Technologies Used
 
-- **Backend**: Spring Boot, Hibernate, Spring Security
-- **Frontend**: ReactJS, Tailwind CSS, ShadCN UI Library
-- **Payment Integration**: Razorpay
-- **Database**: MySQL
